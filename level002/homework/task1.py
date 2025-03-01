@@ -1,0 +1,5 @@
+print("irina beridze")
+print("malxaz bejanidze")
+print("lasha basiladze")
+print("petre xalvashi")
+print("nikoloz manchkeliani")
